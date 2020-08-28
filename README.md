@@ -1,3 +1,3 @@
 # ssblog
-speed simple blog system
+speed simple blog system.
 ***
